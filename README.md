@@ -43,11 +43,12 @@ Wants to learn more about:
 
 Wants to help build/create/foster companies that want to:
 
-* Aid the electrification of particular difficult sectors/applications where it has nevertheless a large impact.
-* Implement wireless charging at a distance of a couple of meters. Charging is (and cables are) the most important barrier to widespread adoption of chips in everything. Backscatter tech is awesome. Without this it's still the stone age.
-* Grow lab-grown meat. Without the use of animals for meat, it's an excellent product. Same with fish, eggs, milk, butter, and cheese.
-* Build energy tech at the physical periphery of Europe to foster the local economy and move the entire continent faster on the path of sustainability.
-* Grow sea farms. Requires extensive robotization to make aquaculture economically efficient. Might also require getting sunlight into deeper sea levels. Big advantage is that the sea is 3D. It's a huge volume to grow crops in.
+* Aid the **electrification** of particular difficult sectors/applications where it has nevertheless a large impact.
+* Implement **wireless charging** at a distance of a couple of meters. Charging is (and cables are) the most important barrier to widespread adoption of chips in everything. Backscatter tech is awesome. Without this it's still the stone age.
+* Grow **lab-grown meat**. Without the use of animals, meat is an excellent product. Same is true for fish, eggs, milk, butter, and cheese.
+* Build **energy tech** at the physical periphery of Europe to foster the local economy and move the entire continent faster on the path of sustainability.
+* Grow **sea farms**. Requires extensive robotization to make aquaculture economically efficient. Might also require getting sunlight into deeper sea levels. Big advantage is that the sea is 3D. It's a huge volume to grow crops in.
+* Build **embodied artificial intelligent** systems (robots, self-driving cars, drones). We won't have enough hands in the future.
 
 <!--
 **mrquincle/mrquincle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
