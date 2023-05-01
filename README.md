@@ -2,7 +2,7 @@
 
 ## New opportunity
 
-On the moment I'm quite excited because it's my first opportunity since quite some time that the world opened up to me. I'm looking for work opportunities in which I can use my expertise in machine learning and/or embedded engineering for the greater good.
+On the moment I'm quite excited because it's my first opportunity since quite some time to search for a new position! I'm looking for work in which I can use my expertise in machine learning and/or embedded engineering for the greater good.
 
 ## Crownstone
 
