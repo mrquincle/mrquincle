@@ -1,8 +1,12 @@
 # Hi there 👋
 
+## New opportunity
+
+On the moment I'm quite excited because it's my first opportunity since quite some time that the world opened up to me. I'm looking for work opportunities in which I can use my expertise in machine learning and/or embedded engineering for the greater good.
+
 ## Crownstone
 
-👯 I’m working with my team at Crownstone on an open-source switch/dimmer which is better then anything before! 😄 Check it out at <https://crownstone.rocks> and tell me what you think. Also check out the firmware itself, which is called [bluenet](https://github.com/crownstone/bluenet/).
+👯 I've worked with my team at Crownstone on an open-source switch/dimmer which is better then anything before! 😄 Check it out at <https://crownstone.rocks>. Also check out the firmware itself, which is called [bluenet](https://github.com/crownstone/bluenet/).
 
 What's cool about it?
 
