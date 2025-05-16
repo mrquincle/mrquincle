@@ -1,21 +1,21 @@
 # Hi there 👋
 
-## New opportunity
+Feel free to contact me to learn things or teach me things. If you've a love for knowing how things truly work, we'll probably go along well.
 
-On the moment I'm quite excited because it's my first opportunity since quite some time to search for a new position! I'm looking for work in which I can use my expertise in machine learning and/or embedded engineering for the greater good.
+## Ingy
+
+As the CTO at Ingy I'm working with my team to conquer the light and control market with a Wirepas based solution. We've been building firmware for dozens of different manufacturers and have been building the full stack from embedded, gateway, app, to cloud.
+
+If you're a firmware or cloud engineer feel free to connect me.
 
 ## Crownstone
 
-👯 I've worked with my team at Crownstone on an open-source switch/dimmer which is better then anything before! 😄 Check it out at <https://crownstone.rocks>. Also check out the firmware itself, which is called [bluenet](https://github.com/crownstone/bluenet/).
+👯 As CEO I've worked with my team at Crownstone on an open-source switch/dimmer which is better then anything before! 😄 Check it out at <https://crownstone.rocks>. Also check out the firmware itself, which is called [bluenet](https://github.com/crownstone/bluenet/).
 
-What's cool about it?
+## DoBots
 
-* Again, it's open-source! You own your smart home. Period.
-* This hardware has support for Bluetooth scanning. This means you can respond to someone's presence not only if they carry a smartphone, but also when they wear a wearable. Asset tracking / lost and find stuff is a cool extra.
-* It's sampling current and voltage pretty fast (5 kHz). This means you can go bananas on analyzing individual sine waves to check out what's plugged into your outlet or detect anomalies.
-* We're in the process of supporting microapps (small Arduino programs on the hardware). This makes it customizable by anyone who can code a little bit.
-* The hardware forms a mesh, Bluetooth Mesh. In combination with Bluetooth Low Energy (BLE) it's possible to hook up everything that speaks BLE. Next, implement "BLE over Bluetooth Mesh".
-
+We build the autopilot for an industrial autonomous cleaning robot. It works perfectly but the cleaning industry wasn't yet ready for performance-based contracts. One can win contracts with X janitors times their costs plus margin, or X - k janitors times their costs plus margin plus a bit for a robot. Guess what's the preference of the cleaning companies.
+  
 ## Reverse engineering
 
 :ninja: I've been working with computers since I was 10. It started with solving puzzles that I otherwise couldn't solve in a popular science magazine (called Kijk) using QBasic. I also played extensively with the hardware settings too (remember "extended memory"!). One time I broke my father's computer. At the computer shop they had difficulties to get it back in order. To my surprise my father was proud. I've been a tinkerer ever since. 
